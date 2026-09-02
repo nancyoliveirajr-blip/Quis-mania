@@ -1,0 +1,7 @@
+{
+  "name": "QUIZ MANIA",
+  "description": "Aplicativo comercial proprietário de quiz e perguntas com 12 categorias, desafios diários, ranking seguro e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
